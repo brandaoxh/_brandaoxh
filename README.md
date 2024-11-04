@@ -4,7 +4,7 @@ meu nome é Heloiza Brandão
 
 - Estou estudando na [Alura](https://www.alura.com.br
 -  Estou me desvolvendo na linguangem javaScript
--  utilizo esse espaço para minha organização e compartilhamento dos mesu projetos dos meus projetos desenvolvidos
+-  utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
   ### Você entrar em contato comigo
 
